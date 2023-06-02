@@ -1,0 +1,16 @@
+@font-face{
+  font-family: 'Montserrat';
+  font-style: normal;
+  color: white;
+  src: url('./Montserrat-Medium.ttf');
+}
+
+.video-label {
+  font-family: Montserrat;
+	bottom: 2vh;
+	left: 50%;
+	transform: translateX(-50%);
+	background: rgba (0,0,0,.8);
+	border-radius: 5px;
+	font-size: 60px;
+}
